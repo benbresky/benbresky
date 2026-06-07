@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on TripleTen.
+- 🔭 I finished the TripleTen course in QA testing.
 - 🌱 I’m currently learning JavaScript.
 - ⚡ Fun fact: I learned SQL, Postman.
 <!--
